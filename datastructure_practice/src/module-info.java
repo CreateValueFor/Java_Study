@@ -1,0 +1,2 @@
+module datastructure_practice {
+}
